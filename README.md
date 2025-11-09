@@ -138,4 +138,4 @@ Open in browser:
 ## 🧑‍💻 Author
 **Name:** Gaurav Raj  
 **Institute:** NIT Karnataka  
-**Role:** AI/ML Research Intern | Data Science Enthusiast
+**Role:** Research Intern | Data Science Enthusiast
