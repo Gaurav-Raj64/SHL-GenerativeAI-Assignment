@@ -1,4 +1,5 @@
-# SHL - Generative AI Assignment
+# # GenAI Assessment Recommendation: Building a Web-Based RAG Tool using SHL’s Product Catalog
+
 
 ## 📄 Overview
 This submission implements an end-to-end **Generative AI Recommendation System** for SHL’s product catalog.
